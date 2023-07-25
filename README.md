@@ -20,7 +20,7 @@
 I am a Computer Science and Applied Math Undergraduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 - 👨‍🎓 I’m a penulitmate undergraduate in the National University of Singapore.
 
-- ⚽ I am specialising in Artificial Intelligence and I am keen in exploring how AI can impact the sports scene!
+- ⚽ I'm specialising in Artificial Intelligence and I am keen in exploring how AI can impact the sports scene!
 
 - ⚡ In my free time, I watch/ play a lot of football and badminton and I solve problems on LeetCode (sometimes 😉).
 
