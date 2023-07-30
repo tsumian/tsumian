@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/su-mian-thia-b1a083230/">
+  <a href="https://www.linkedin.com/in/su-mian-thia-b1a083230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://thiasumian.netlify.app/#">
+  <a href="https://thiasumian.netlify.app/#" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
