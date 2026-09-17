@@ -20,7 +20,11 @@
   <a href="mailto:thia.sumian@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://thiasumian.com">
+     <img src="https://img.shields.io/badge/thiasumian.com-2E3D6B?style=for-the-badge" alt="Portfolio"/>
+  </a>
 </p>
+
 
 ---
 
